@@ -1,0 +1,14 @@
+{
+  "name": "module_19_4",
+  "version": "1.0.0",
+  "description": "Redux reducers",
+  "main": "reducer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
